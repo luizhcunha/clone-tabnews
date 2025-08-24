@@ -2,7 +2,7 @@
   "name": "clone-tabnews",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "layout.js",
   "scripts": {
     "dev": "next dev"
   },
