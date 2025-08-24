@@ -5,7 +5,8 @@
   "main": "layout.js",
   "scripts": {
     "dev": "next dev",
-    "vercel-build": "npm run dev && next build"
+    "build": "next build",
+    "start": "next start"
   },
   "author": "",
   "license": "MIT",
