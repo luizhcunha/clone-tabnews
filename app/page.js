@@ -1,3 +1,8 @@
 export default function Home() {
-  return <h1>Lucky! 🍀💗</h1>;
+  return (
+    <div>
+      <h1>Lucky! 🍀💗</h1>
+      <p>to com saudades :(</p>
+    </div>
+  );
 }
